@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Ref: https://blog.csdn.net/qq_31396185/article/details/81179492
+
+
 
 yum update -y && \
 yum install git -y && \
